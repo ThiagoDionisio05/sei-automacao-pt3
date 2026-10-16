@@ -1,0 +1,35 @@
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editores / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Perfil do navegador (cookies de sessão do SEI) — nunca deve ir pro git
+.browser-profile/
+
+# Configuração local com dados reais (URL, nomes de documentos, nº de modelos)
+src/config_local.py
+.env
+
+# Documentos reais (PDFs anexados aos processos)
+src/PDFs/
+*.pdf
+
+# Dados pessoais (planilhas + pastas de documentos de cada pessoa)
+data/
+*.xlsx
+*.xls
+*.csv
+
+# Painéis gerados (embutem matrícula/nome/processo SEI de todo mundo)
+painel_*.html
+
+# Gerados em runtime (podem conter informações reais/sensíveis)
+screenshots/
+status/
