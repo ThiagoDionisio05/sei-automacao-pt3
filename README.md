@@ -9,7 +9,6 @@
 [![pandas](https://img.shields.io/badge/pandas-planilhas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-DOM-F7DF1E?logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/status-em_uso_real-success)
-[![Licença: MIT](https://img.shields.io/badge/licença-MIT-yellow.svg)](LICENSE)
 
 **Série:** [Parte 1: Criação de processos](https://github.com/ThiagoDionisio05/sei-automacao) •
 [Parte 2: Documentos pessoais](https://github.com/ThiagoDionisio05/sei-automacao-pt2) •
@@ -327,6 +326,8 @@ afiliado nem endossado** por nenhum órgão público ou pelos mantenedores do SE
 Use apenas em sistemas aos quais você tem acesso autorizado e de acordo com as
 políticas da sua instituição. Nenhum dado pessoal real faz parte deste
 repositório. Números de processo e de documento citados são fictícios.
+
+Código disponibilizado apenas para consulta, como portfólio. Nenhuma licença de uso é concedida.
 
 <div align="center">
 
